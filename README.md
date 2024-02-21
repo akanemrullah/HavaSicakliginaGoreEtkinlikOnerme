@@ -1,0 +1,1 @@
+Etkinlikler oneren program.
